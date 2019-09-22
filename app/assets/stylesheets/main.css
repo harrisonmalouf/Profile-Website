@@ -5,12 +5,13 @@ body {
 h1, h2, h3 {
   text-align: center;
   padding-bottom: 20px;
+  text-decoration: underline;
 }
 
 footer {
   padding-top: 5em;
 }
 
-.about-me {
+.Para-Padding {
   padding: 0px 6em
 }
