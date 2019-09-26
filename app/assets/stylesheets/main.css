@@ -1,17 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+
 body {
   background-color: #6b3964;
 }
 
-h1, h2, h3 {
+nav {
+  font-family: 'Acme', sans-serif;
+}
+
+h1, h2, h3, h5 {
   text-align: center;
   padding-bottom: 20px;
   text-decoration: underline;
+  font-family: 'Acme', sans-serif;
 }
 
 footer {
-  padding-top: 5em;
+  padding-top: 1em;
 }
 
 .Para-Padding {
   padding: 0px 6em
+}
+
+.project-para {
+  padding: 10px 0 0 0;
+}
+
+.footer-para {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.card-img-top {
+  max-width: 300px;
+  max-height: 200px;
+  padding: 10px 0 0 30px;
 }
