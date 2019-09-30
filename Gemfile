@@ -49,3 +49,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'jquery-rails'
 gem 'bootstrap'
 gem 'rails_12factor', group: :production
+source 'https://rails-assets.org' do
+  gem 'rails-assets-particles.js'
+end

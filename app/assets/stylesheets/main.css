@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
 
-body {
-  background-color: #6b3964;
-}
-
 nav {
   font-family: 'Acme', sans-serif;
 }
@@ -11,9 +7,13 @@ nav {
 h1, h2, h3, h5 {
   text-align: center;
   padding-bottom: 20px;
-  text-decoration: underline;
   font-family: 'Acme', sans-serif;
 }
+
+h1, h5 {
+  text-decoration: underline;
+}
+
 
 footer {
   padding-top: 1em;
