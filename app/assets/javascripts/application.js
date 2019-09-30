@@ -12,6 +12,6 @@
 //
 //= require rails-ujs
 //= require jquery
-//= require bootstrap
 //= require particles.js
+//= require bootstrap
 //= require_tree .
